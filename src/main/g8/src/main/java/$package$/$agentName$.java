@@ -1,8 +1,10 @@
+package $package$;
+
 import org.enmas.pomdp.Agent;
 import org.enmas.pomdp.Action;
 import org.enmas.pomdp.State;
 
-public class $agentName$ extends Agent {
+public class $agentName;format="Camel"$ extends Agent {
 
 	// See the API docs
 	// http://enmas.github.com/api/enmas-core/#org.enmas.pomdp.Agent

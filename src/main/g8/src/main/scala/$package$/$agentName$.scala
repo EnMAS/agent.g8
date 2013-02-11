@@ -1,7 +1,9 @@
+package $package$
+
 import org.enmas.pomdp.{Agent, Action, State}
 import scala.util.Random
  
-class $agentName$ extends Agent {
+class $agentName;format="Camel"$ extends Agent {
 
   // See the API docs at
   // http://enmas.github.com/api/enmas-core/#org.enmas.pomdp.Agent
