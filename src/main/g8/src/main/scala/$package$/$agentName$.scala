@@ -13,7 +13,9 @@ class $agentName;format="Camel"$ extends Agent {
   def policy(observation: State, reward: Float): Action = {
     // inspect your observation
     // consider your reward
+
     // choose an action
+    Action("Chosen action")
   }
 
 }
