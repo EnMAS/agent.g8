@@ -1,6 +1,6 @@
 organization := "$package$"
 
-name := "$agentName$"
+name := "$name;format="normalize$"
 
 version := "0.1.0"
 
