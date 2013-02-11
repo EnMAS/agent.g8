@@ -1,6 +1,6 @@
 organization := "$package$"
 
-name := "$name;format="normalize$"
+name := "$name;format="normalize"$"
 
 version := "0.1.0"
 
